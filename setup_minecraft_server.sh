@@ -10,9 +10,9 @@ echo "Création du répertoire pour le serveur Minecraft..."
 mkdir -p ~/minecraft-server
 cd ~/minecraft-server
 
-# Télécharger le serveur Minecraft Vanilla 1.21.4
-echo "Téléchargement du serveur Minecraft Vanilla 1.21.4..."
-wget https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar -O minecraft_server.jar
+# Télécharger le serveur Minecraft Vanilla 1.21.8
+echo "Téléchargement du serveur Minecraft Vanilla 1.21.8..."
+wget https://piston-data.mojang.com/v1/objects/6bce4ef400e4efaa63a13d5e6f6b500be969ef81/server.jar -O minecraft_server.jar
 
 # Accepter l'EULA
 echo "Acceptation de l'EULA..."
